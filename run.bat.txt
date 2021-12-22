@@ -1,0 +1,2 @@
+cd C:\Users\Deepak Bohra\eclipse-workspace
+   mvn clean install
